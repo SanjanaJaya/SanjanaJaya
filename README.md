@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanajaya&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanajaya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sanjanajayasoo1" target="blank"><img src="[https://img.shields.io/twitter/follow/sanjanajayasoo1?logo=twitter&style=for-the-badge](https://drive.google.com/file/d/1c5UVlsJC5Dqp-pnRBCae9WWZD0d_PEI3/view?usp=drive_link)" alt="sanjanajayasoo1" /></a> </p>
-
-- 🔭 I’m currently working as a **Cryptocurrency Trader**
-
 - 🌱 I’m currently learning **Computer Security**
 
 - 💬 Ask me about **Cryptocurrency,Programming,3D Modeling**
